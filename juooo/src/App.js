@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import store from './store/store'
-import '../../../复习/webpack-demo-master/src/index.css';
+// import '../../../复习/webpack-demo-master/src/index.css';
 
 class App extends Component {
 
